@@ -1,0 +1,16 @@
+.main {
+    width: 100%;
+    background-image: url(./FFTablet_1100x.progressive.webp);
+    
+}
+.panel{
+   
+   
+    background: linear-gradient(rgb(0, 0, 0), rgba(0, 0, 0, 0.155)), rgba(0, 0, 0, 0.055);
+  height: 100px;
+  
+  
+  width: 100%;
+  
+}
+
